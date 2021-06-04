@@ -1,5 +1,3 @@
-## Single Image Super Resolution Based on Residual Dense Channel Attention Block-RecursiveSRNet (IPIU, 2021.02.03~05) 
-
 [RDCAB-RecursvieSRNet](https://github.com/HEEJOWOO/RDCAB-RecursiveSRNet-2021.02.IPIU-) 
 
 [RDCAB-RecursvieSRNet→YouTube](https://www.youtube.com/watch?v=BW7Z-MUu7m4) 
@@ -10,7 +8,8 @@
 
 [RDCAB-RecursvieSRNet-FD-IR](https://github.com/HEEJOWOO/RDCAB-RecursiveSRNet-FD-IR) 
 
-# RDCAB-RecursivSRNet(Feature Distillation & Information Refinement)
+# Lightweight RecursiveSRNet Improved Skip Connection
+
 ## ProPosed Network
 ![RDCAB_RecursiveSRNet_upgrade](https://user-images.githubusercontent.com/61686244/120751086-5fc21380-c542-11eb-88c3-34d63d74f0d9.png)
 
