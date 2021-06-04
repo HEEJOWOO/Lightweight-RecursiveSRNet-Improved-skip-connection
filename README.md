@@ -49,15 +49,15 @@
 |RDCAB-RecursiveSRNet|32.29 / 0.012|28.64 / 0.016|27.62 / 0.013|26.16 / 0.021|
 |Split Vesrion|32.24 / 0.015|28.65 / 0.018|27.62 / 0.018|26.08 / 0.026|
 |FD & IRB|32.28 / 0.007|28.66 / 0.008|27.64 / 0.006|26.19 / 0.010|
-|Improved Residual|32.46 / 0.016|28.77 / 0.016|27.71 / 0.015|26.49 / 0.024|
+|Improved Residual|32.45 / 0.015|28.79 / 0.014|27.70 / 0.014|26.42 / 0.019|
 
 |x4|RDN|RDCAB-RecursvieSRNet|Split Version|FD & IRB|Improved Residual|
 |-|---|--------------------|-------------|--------|-----------------|
-|Parameters|22M|2.1M|1.2M|1.63M|1.93M|
+|Parameters|22M|2.1M|1.2M|1.63M|1.63M|
 
 |x4|RDN|RDCAB-RecursvieSRNet|Split Version|FD & IRB|
 |-|---|--------------------|-------------|--------|
-|Multi-Adds|1,309G|750G|567G|293G|344G|
+|Multi-Adds|1,309G|750G|567G|293G|293|
 
 
 
