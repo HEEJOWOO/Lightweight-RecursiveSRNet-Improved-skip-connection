@@ -74,3 +74,5 @@
 [RFDN](https://arxiv.org/abs/2009.11551)
 
 [LESRCNN](https://arxiv.org/abs/2007.04344)
+
+[IdleSR](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_8)
