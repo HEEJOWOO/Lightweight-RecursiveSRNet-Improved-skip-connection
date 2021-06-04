@@ -42,7 +42,12 @@ if __name__ == '__main__':
     cudnn.benchmark = True
     device = torch.device('cuda:1' if torch.cuda.is_available() else 'cpu')
     torch.manual_seed(args.seed)
-    model = Net(scale_factor=args.scale,num_channels=args.num_channels,num_features=args.num_features,growth_rate=args.growth_rate,U=args.U,distillation_rate=args.distillation_rate).to(device)
+    model = Net(scale_factor=args.scale,
+                num_channels=args.num_channels,
+                num_features=args.num_features,
+                growth_rate=args.growth_rate,
+                U=args.U,
+                distillation_rate=args.distillation_rate).to(device)
     #print model
     print(model)
     
