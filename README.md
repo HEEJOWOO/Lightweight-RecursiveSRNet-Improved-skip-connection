@@ -55,8 +55,8 @@
 |-|---|--------------------|-------------|--------|-----------------|
 |Parameters|22M|2.1M|1.2M|1.63M|1.63M|
 
-|x4|RDN|RDCAB-RecursvieSRNet|Split Version|FD & IRB|
-|-|---|--------------------|-------------|--------|
+|x4|RDN|RDCAB-RecursvieSRNet|Split Version|FD & IRB|Improved Residual|
+|-|---|--------------------|-------------|--------|-----------------|
 |Multi-Adds|1,309G|750G|567G|293G|293|
 
 
