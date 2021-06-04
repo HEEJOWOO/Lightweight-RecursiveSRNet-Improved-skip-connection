@@ -59,7 +59,7 @@
 |-|---|--------------------|-------------|--------|-----------------|
 |Multi-Adds|1,309G|750G|567G|293G|293|
 
-
+* The proposed network has an average processing speed of 1.5x faster across all test sets than RDN. It has parameters and computations such as Split-Version and has twice the slow throughput, but produces 0.15 dB higher performance on average on all test sets.
 
 ## Reference
 [RDN](https://arxiv.org/abs/1802.08797)
